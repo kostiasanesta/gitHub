@@ -42,6 +42,7 @@ public class FirstHomeWork {
 
 	}
 
+
 	public int toScan(Scanner scan) {
 		return scan.nextInt();
 
